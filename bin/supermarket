@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require './lib/supermarket'
+
+Supermarket.new.draw_groceries 
